@@ -1,0 +1,32 @@
+icd10_code,icd10_description,cpt_code,cpt_description,compatible,typical_allowed_amount,note_keywords
+E11.9,Type 2 diabetes mellitus without complications,99214,Office visit established patient moderate,1,180,blood sugar;glucose;a1c;diabetes;insulin
+E11.9,Type 2 diabetes mellitus without complications,83036,Hemoglobin A1c,1,55,a1c;glucose;diabetes
+E11.9,Type 2 diabetes mellitus without complications,93000,Electrocardiogram routine,0,75,chest pain;palpitations;ecg
+I10,Essential hypertension,99213,Office visit established patient low,1,120,blood pressure;hypertension;bp
+I10,Essential hypertension,93000,Electrocardiogram routine,1,75,blood pressure;ecg;heart;hypertension
+I10,Essential hypertension,29881,Knee arthroscopy meniscectomy,0,3400,knee;meniscus;arthroscopy
+J45.909,Unspecified asthma uncomplicated,94010,Spirometry,1,90,asthma;wheezing;breathing;spirometry
+J45.909,Unspecified asthma uncomplicated,99214,Office visit established patient moderate,1,180,asthma;wheezing;inhaler;shortness of breath
+J45.909,Unspecified asthma uncomplicated,45378,Colonoscopy diagnostic,0,1200,colon;polyp;colonoscopy
+M54.5,Low back pain,72148,MRI lumbar spine without contrast,1,1100,back pain;lumbar;mri;spine
+M54.5,Low back pain,97110,Therapeutic exercise,1,65,back pain;physical therapy;exercise
+M54.5,Low back pain,33533,Coronary artery bypass graft,0,52000,bypass;coronary;heart surgery
+M17.11,Unilateral primary osteoarthritis right knee,29881,Knee arthroscopy meniscectomy,1,3400,knee;meniscus;arthroscopy;osteoarthritis
+M17.11,Unilateral primary osteoarthritis right knee,73721,MRI lower extremity joint,1,1000,knee;mri;joint;osteoarthritis
+M17.11,Unilateral primary osteoarthritis right knee,99204,Office visit new patient moderate,1,210,knee;pain;osteoarthritis
+N39.0,Urinary tract infection,81003,Urinalysis automated,1,25,urine;uti;burning;urinalysis
+N39.0,Urinary tract infection,99213,Office visit established patient low,1,120,urine;uti;infection
+J18.9,Pneumonia unspecified organism,71046,Chest x-ray two views,1,110,pneumonia;chest;cough;x-ray
+J18.9,Pneumonia unspecified organism,99223,Initial hospital care high,1,420,pneumonia;admission;fever;cough
+J18.9,Pneumonia unspecified organism,99291,Critical care first hour,0,750,critical;ventilator;sepsis
+K21.9,Gastro-esophageal reflux disease,43239,Upper GI endoscopy biopsy,1,1500,reflux;heartburn;endoscopy;gerd
+K21.9,Gastro-esophageal reflux disease,99213,Office visit established patient low,1,120,reflux;heartburn;gerd
+I21.4,Non-ST elevation myocardial infarction,93458,Cardiac catheterization,1,4800,chest pain;cardiac;catheterization;mi
+I21.4,Non-ST elevation myocardial infarction,99223,Initial hospital care high,1,420,chest pain;admission;cardiac;mi
+I21.4,Non-ST elevation myocardial infarction,97110,Therapeutic exercise,0,65,physical therapy;exercise
+Z00.00,General adult medical examination,99395,Preventive visit established 18-39,1,200,physical;wellness;preventive;checkup
+Z00.00,General adult medical examination,80053,Comprehensive metabolic panel,1,45,blood;metabolic;wellness;panel
+F32.9,Major depressive disorder single episode,90834,Psychotherapy 45 minutes,1,140,depression;mood;psychotherapy;counseling
+F32.9,Major depressive disorder single episode,99214,Office visit established patient moderate,1,180,depression;mood;antidepressant
+O80,Encounter for full-term uncomplicated delivery,59400,Routine obstetric care vaginal delivery,1,4500,delivery;pregnancy;obstetric;labor
+O80,Encounter for full-term uncomplicated delivery,76805,Obstetric ultrasound,1,250,pregnancy;ultrasound;fetal
