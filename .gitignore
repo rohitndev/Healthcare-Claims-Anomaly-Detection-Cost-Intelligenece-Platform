@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment / secrets
+.env
+*.pem
+*.csv.cred
+credentials/
+
+# Pipeline outputs (regenerated on every run)
+output/
+dashboards/exports/
+
+# Data artefacts (synthetic data is regenerated; keep reference taxonomy)
+data/*.parquet
+data/*.csv
+!data/reference/*.csv
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+*.log
+
+# Ignore sample docs and PDFs
+SAMPLE_README.md
+*.pdf
